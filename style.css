@@ -1,0 +1,50 @@
+body {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    padding: 30px;
+}
+
+.cabeçario {
+    padding: 15px;
+    color: white;
+}
+
+.subtitulo {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+p {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#marcacao {
+    font-size: 20px;
+}
+
+strong {
+    color: rebeccapurple;
+}
+
+.item1 {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagem {
+    width: 50%;
+}
